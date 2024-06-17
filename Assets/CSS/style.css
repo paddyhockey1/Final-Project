@@ -102,6 +102,24 @@ padding: 1rem;
         }
 
 /*---------------------------------------------STAFF.HTML GOES ABOVE-------------------------------------------------*/
+ 
+    .bio-image{
+        margin: auto;
+        display: block;
+    }
+
+    .bio-head {
+        text-align: center;
+    }
+
+    .bio-sub {
+        text-align: center;
+    }
+
+    p {
+        display: block;
+        margin: auto 20px;
+    }
 
 /*--------------------------------------------BIO CSS HERE----------------------------------------------------------*/
 
