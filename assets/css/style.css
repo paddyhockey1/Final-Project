@@ -41,6 +41,7 @@ body {
     .topnav a.icon {
       float: right;
       display: block;
+     
     }
     }
 
@@ -80,7 +81,7 @@ body {
 
     
     .hero {
-        background: url("../assets/images/home-page/honda_center.png");
+        background: url("../assets/images/home-page/honda-center.png");
     }
 
     .topnav a:hover {
@@ -95,7 +96,7 @@ body {
 .hero {
     width: 100%;
     height: 600px;
-    background: url("../assets/images/home-page/honda-center.jpg")
+    background: url("/assets/images/home-page/honda-center.jpg")
     no-repeat
     center center
     / cover;
@@ -155,16 +156,22 @@ table {
 td {
     width: 15%;
     text-align: center;
-    margin: auto;
+    margin: auto 10px;
+}
+
+th {
+    margin: auto 10px;
 }
 
 .roster-h2 {
 text-align: center;
+text-transform: uppercase
 
 }
 
 .roster-h3 {
-text-align: center
+text-align: center;
+text-decoration: underline;
 }
 
 .roster-portrait {
@@ -212,6 +219,8 @@ border-radius: 50%;
 /*--------------------------------------------BIO CSS HERE----------------------------------------------------------*/
   .standings {
     text-align: center;
+    width: 80%;
+    margin: auto;
    
   }
 
