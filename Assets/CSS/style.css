@@ -43,6 +43,8 @@ body {
       display: block;
     }
     }
+
+    
     
     @media screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
@@ -51,11 +53,22 @@ body {
       right: 0;
       top: 0;
     }
-
+/*-----------------------ROSTER PAGEvvvvvvvvvvvvvvvvvvvvvvvvvvvv*/
     .hide {
         visibility: hidden;
     }
     }
+
+    table {
+        width: 100%;
+        margin: auto;
+    }
+
+    .th, .td {
+        padding-left: 1px;
+    }
+
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^ROSTER PAGE^^^^^^^^^^^^^^^^^^^^^^^*/
     
     .topnav.responsive a {
       float: none;
@@ -127,6 +140,7 @@ padding: 1rem;
 
 table {
     width: 100%;
+    margin: auto;
 }
 
 td {
