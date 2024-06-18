@@ -53,7 +53,17 @@ body {
       right: 0;
       top: 0;
     }
-/*-----------------------ROSTER PAGEvvvvvvvvvvvvvvvvvvvvvvvvvvvv*/
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+      }
+
+/*---------------------------ALL ABOVE GOES INTO EVERY PAGE---------------------------------------*/
+
+
+/*-------------------------EXTRA MOBILE STYLING BELOW-------------------------*/
     .hide {
         visibility: hidden;
     }
@@ -68,20 +78,19 @@ body {
         padding-left: 1px;
     }
 
-/*^^^^^^^^^^^^^^^^^^^^^^^^^^^ROSTER PAGE^^^^^^^^^^^^^^^^^^^^^^^*/
     
-    .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
+    .hero {
+        background: url("Assets/Images/Home-Page/honda_center.png");
     }
 
+    .topnav a:hover {
+        color: rgb(252,76,2);
+    }
 
-  
+/*----------------------EXTRA MOBILE STYLING ABOVE---------------------*/
+    
 
 
-
-/*---------------------------ALL ABOVE GOES INTO EVERY PAGE---------------------------------------*/
 
 .hero {
     width: 100%;
