@@ -81,8 +81,8 @@ body {
 
     
     .hero {
-        background: url("/assets/images/home-page/jerseys.jpg");
-        size: center;
+        background-image: url("/assets/images/home-page/jerseys.jpg");
+        background-color: center;
     }
 
     .topnav a:hover {
@@ -244,6 +244,7 @@ border-radius: 50%;
     text-align: center;
     width: 80%;
     margin: auto;
+
    
   }
 
@@ -264,8 +265,9 @@ text-decoration: underline;
 
   td {
     width: 9%;
-  }
+}
 
+ 
 
 
 /*---------------------------------------------STANDINGS.HTML GOES HERE-------------------------------------------------*/
@@ -313,5 +315,10 @@ color: white
 
 #index-h5 {
     color: white
+}
+
+footer {
+    position: bottom;
+    min-height: 100vh;
 }
 
