@@ -93,6 +93,20 @@ body {
         margin-left: 45px;
     }
 
+    
+.hero {
+    width: 70%;
+    height: 600px;
+    background-image: url('../images/home-page/jerseys.jpg');
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    margin: 20px auto;
+    display: block;
+}
+
 
     
 
@@ -104,6 +118,7 @@ body {
     width: 100%;
     height: 600px;
     background-image: url('../images/home-page/jerseys.jpg');
+    background-color: black;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
