@@ -84,7 +84,7 @@ table {
 
 .hero {
     background-image: url("/assets/images/home-page/jerseys.jpg");
-    background-size: center;
+    background-position: center;
     }
 
 .topnav a:hover {
@@ -257,7 +257,7 @@ text-decoration: underline;
 
 /*---------------------------------------------STANDINGS.HTML GOES HERE-------------------------------------------------*/
 
-/*-----------------------------------------ALL BELOW GOES INTO EVERY PAGE---------------------------------------------------*/
+/*--ALL BELOW GOES INTO EVERY PAGE---------------------------------------------------*/
 
 .social {
     background-color: black;
