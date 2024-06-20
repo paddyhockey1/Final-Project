@@ -129,8 +129,31 @@ The page also contains the same statistical breakdown for the wider Western Conf
  - From settings menu navigate to "page" tab then "default branch" to select master branch.
  - After master branch has been selected, page will be refreshed automatically with confirmation that deployment has been successful   
   
+## Wireframes
+
+  - The wireframes for this site were made  with the desktop user in mind. They were created using [Balsamiq Cloud](https://balsamiq.com/?gad_source=1&gclid=EAIaIQobChMI36_T0pPqhgMVwplQBh19iw10EAAYASAAEgJjS_D_BwE)
+  - The pages are as follows:
   
-  
-  
+  * Home Page
+
+![desktop-home](https://github.com/paddyhockey1/Final-Project/assets/170856162/7c647d4e-1646-42c9-865c-62ab5317c956)
+
+  * Roster Page
+
+![desktop roster](https://github.com/paddyhockey1/Final-Project/assets/170856162/0d646c38-4edb-4098-8a99-59e8b0fb9b40)
+
+
+  * Staff Page
+
+![desktop staff](https://github.com/paddyhockey1/Final-Project/assets/170856162/c569ed94-4f6b-4269-9f79-351065bc633e)
+
+  * Coach Biography Page
+
+![desktop bio](https://github.com/paddyhockey1/Final-Project/assets/170856162/4a3d98c8-25af-4e80-b9b4-39eeb03972ed)
+
+
+  * Standings Page
+    
+![desktop standings](https://github.com/paddyhockey1/Final-Project/assets/170856162/925ce801-3eff-48dd-9e97-9af919538e16)
 
   
