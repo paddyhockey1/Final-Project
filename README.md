@@ -96,7 +96,8 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 [WaveWeb evaluation Tools](https://wave.webaim.org/report#/https://paddyhockey1.github.io/Final-Project/index.html) found no errors in my code.
 
-![wave-validator](https://github.com/paddyhockey1/Final-Project/assets/170856162/53233f38-995b-49c9-a3ff-d91102db6c53)
+![wave-evaluation](https://github.com/paddyhockey1/Final-Project/assets/170856162/76965c3d-6cdb-48f5-8483-d97626709e99)
+
 
 #### Lighthouse
 
