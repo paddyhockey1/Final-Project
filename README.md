@@ -116,8 +116,21 @@ The page also contains the same statistical breakdown for the wider Western Conf
 * I was informed by two seperate people that the Facebook link in the footer would not work properly and opened into an error message. Those who tested with iOS did not have this problem.
 
   #### Unfixed Bugs
-  The main image on the hero section changes vertically when switched to mobile screen resolution.
+  
+* The main image on the hero section changes vertically when switched to mobile screen resolution.
 
-  ## Deployment
+## Deployment
+
+- The site was created using Gitpod editor and deployed through Github repositories using the repository named "final-project".
+ - The steps for deployment in Github are as follows:
+ -  In Github home page click"new"
+ - change repository name and allow public access. Add README file and click "create repository".
+ - In Github repository click "settings" tab.
+ - From settings menu navigate to "page" tab then "default branch" to select master branch.
+ - After master branch has been selected, page will be refreshed automatically with confirmation that deployment has been successful   
+  
+  
+  
+  
 
   
