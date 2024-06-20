@@ -45,6 +45,29 @@ There is also a section dedicated to the team's backroom staff section. Both own
 
 ### Internal links for members of coaching staff.
 
+For the coaching team, I have included seperate internal links to custom pages that contain an image, information and a biographical paragraph. I have created these pages for six members of the coaching staff.
+
+#### Greg Cronin Biography Page
+![bio example](https://github.com/paddyhockey1/Final-Project/assets/170856162/2cb5e10b-55b8-431e-83d2-d2401f30a8dd)
+
+### Standings for both the NHL Western Conference and NHL Pacific Division.
+
+#### Pacific Division
+The standings page will provide the user with the final standings for the Facific Divison. The Pacific Division Standings page also includes a small icon of the team's logo along with their rank within the division. These standings will include a brief statistical breakdown for each team withinn the division including: games played, wins, losses, overtime losses, and points. There are further statistics for both goals for and goals against in desktop and tablet. These statistics have had to be removed from mobile for space saving reasons
+
+![pacific division](https://github.com/paddyhockey1/Final-Project/assets/170856162/89b0e80a-70de-410d-8e34-faafa04e861e)
+
+#### Western Conference
+
+The page also contains the same statistical breakdown for the wider Western Conference. Team rankings and logos have also been included for clarity. As this includes both the Pacific and Central Divisons it will give the user a greater idea og how Pacific Divsion teams, including the Ducks, fared within the entire conference.
+
+#### Western Conference
+
+![western conference](https://github.com/paddyhockey1/Final-Project/assets/170856162/c64e774f-cd72-4b0d-bc91-01e91df24407)
+
+
+
+
 
 
 
