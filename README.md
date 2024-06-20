@@ -172,6 +172,12 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
  - The roster image icons were taken from the roster tab also on the official Ducks Website [Roster Page](https://www.nhl.com/ducks/roster)
 
- - Coach images were taken form the [Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk) pages 18-22.
+ - Coach images were taken form the [2023-24 Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk) pages 18-22.
 
- - The team icons used in the standings page were taken from [Wikipedia](https://en.wikipedia.org/wiki/Western_Conference_(NHL) page and the team's own respective pages.
+ - The team icons used in the standings page were taken from [Wikipedia](https://en.wikipedia.org/wiki/Western_Conference_(NHL)) page and the team's own respective pages.
+
+ - All social media links were taken from the [W3 Schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp) social media buttons page.
+
+### Content
+
+The main biographical information for each coach with their own internal webpage was taken from the [Staff Page](https://www.nhl.com/ducks/staff) of the Official Website and the [2023 - 24 Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk)
