@@ -111,3 +111,6 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 * SEO issue was that I was using uncrawlable links for my hamburger icon in the mobile top navigation menu. 
 
+#### Bugs
+
+* I was informed by two seperate people that the Facebook link in the footer would not work properly and opened into an error message. Those who tested with iOS did not have this problem.
