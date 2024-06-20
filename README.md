@@ -116,6 +116,8 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 * I was informed by two seperate people that the Facebook link in the footer would not work properly and opened into an error message. Those who tested with iOS did not have this problem.
 
+* Experienced an issue where hero image would not appear ion certain browsers when trying to inspect code. This was resolved when I re-wrote background shorthand code in css.
+
   #### Unfixed Bugs
   
 * The main image on the hero section changes vertically when switched to mobile screen resolution.
