@@ -77,7 +77,37 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 * A page that would allow visitors of the page to interact with each other. A forum or message board would provide this option.
 
+## Testing
 
+#### HTML
 
+[W3C markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpaddyhockey1.github.io%2FFinal-Project%2F) found no errors in my HTML code.
 
+![html-checker](https://github.com/paddyhockey1/Final-Project/assets/170856162/0dbbb600-2dd1-4832-b365-f833f974bb79)
+
+#### CSS
+
+[W3C CSS Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpaddyhockey1.github.io%2FFinal-Project%2F) found no errors in my CSS code.
+
+![css-checker](https://github.com/paddyhockey1/Final-Project/assets/170856162/7b23c2c8-6cbf-4249-a864-32f89edf4192)
+
+#### Wave
+
+[WaveWeb evaluation Tools](https://wave.webaim.org/report#/https://paddyhockey1.github.io/Final-Project/index.html) found no errors in my code.
+
+![wave-validator](https://github.com/paddyhockey1/Final-Project/assets/170856162/53233f38-995b-49c9-a3ff-d91102db6c53)
+
+#### Lighthouse
+
+* I ran my code through Lighthouse but my SEO score was lower than anticipated. I was informed by my mentor that some Chrome extensions like Adblockers may affect this score. I ran it through Lighthouse again in incognito mode and got a higher score.
+
+![lighthouse-result](https://github.com/paddyhockey1/Final-Project/assets/170856162/5e92d8ea-a316-4cb4-8587-68c0c955f167)
+
+* Performance was excellent. It suggested that I re-size my hero image but when I attempted that the image became less clear and gave the page a poor aesthetic look.
+
+* Accessibility was very good with a single recommendation that I cheading elements are not in sequential order.
+
+* Best practices found no problems with my code.
+
+* SEO issue was that I was using uncrawlable links for my hamburger icon in the mobile top navigation menu. 
 
