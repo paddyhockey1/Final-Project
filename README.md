@@ -22,3 +22,25 @@ The user will be able to see the latest headlines (at the time of the site's cre
 The footer will allow the user to connect with the team's various social media pages. These include links to: Instagram, Facebook and Twitter. There is also a link to the team's YouTube page where the team's video uploads can be accessed.
 
 ![footer](https://github.com/paddyhockey1/Final-Project/assets/170856162/6b110041-68b8-47b1-8e35-474b6b611813)
+
+### A full list of the team's active roster.
+
+There is a full list of the team's roster with additional informaton such as jersey numbers, player position, and place of birth. Height and weight information has also been include in the esktop site. A small player portrait has also been added for the user's benefit.
+
+The roster page has also been designed to seperate players by the three main hockey positions: forwards, defence and goaltenders. 
+
+
+
+
+![forwards-example](https://github.com/paddyhockey1/Final-Project/assets/170856162/ed4afc38-e731-4f54-8b12-0b78e47f402f)
+
+
+
+
+![defencemen example](https://github.com/paddyhockey1/Final-Project/assets/170856162/b8c148fa-b45d-4072-bfe6-2bc21e69fee5)
+
+
+
+
+![goalie example](https://github.com/paddyhockey1/Final-Project/assets/170856162/70039c26-f434-42ec-b275-8d7d0be8f6d3)
+
