@@ -183,4 +183,6 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 ### Content
 
-The main biographical information for each coach with their own internal webpage was taken from the [Staff Page](https://www.nhl.com/ducks/staff) of the Official Website and the [2023 - 24 Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk)
+The main biographical information for each coach with their own internal webpage was taken from the [Staff Page](https://www.nhl.com/ducks/staff) of the Official Website and the [2023 - 24 Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk).
+
+Allstandings information was taken from [NHL Division Standings](https://www.nhl.com/standings/2024-04-18/division) and the [NHL Conference Standings](https://www.nhl.com/standings/2024-04-18/conference).
