@@ -2,6 +2,7 @@
 This site is designed for people who wish to acquire more information about the Anaheim Ducks hockey team of the National Hockey League. 
 
 The main information for the tema is contained within the site. These include: rosters, staff directory, headlines and standings. The site also contains biographical information for some of the team's coaching staff.
+
 ![am-i-responsive light](https://github.com/paddyhockey1/Final-Project/assets/170856162/af0a3305-8749-41a0-b7a1-445e2b393e05)
 
 The site can be visited by clicking this [link](https://paddyhockey1.github.io/Final-Project/)
@@ -29,18 +30,21 @@ There is a full list of the team's roster with additional informaton such as jer
 
 The roster page has also been designed to seperate players by the three main hockey positions: forwards, defence and goaltenders. 
 
-
-
-
 ![forwards-example](https://github.com/paddyhockey1/Final-Project/assets/170856162/ed4afc38-e731-4f54-8b12-0b78e47f402f)
-
-
-
 
 ![defencemen example](https://github.com/paddyhockey1/Final-Project/assets/170856162/b8c148fa-b45d-4072-bfe6-2bc21e69fee5)
 
-
-
-
 ![goalie example](https://github.com/paddyhockey1/Final-Project/assets/170856162/70039c26-f434-42ec-b275-8d7d0be8f6d3)
+
+### A staff directory with a list of coaches and training staff.
+
+A short list of the team's  staff to provide the user information on the main members of staff. These have been divided into three main categories: coaching staff, training staff, and equipment staff.
+There is also a section dedicated to the team's backroom staff section. Both ownership and hockey operations have also been given individual sections.
+
+![staff page](https://github.com/paddyhockey1/Final-Project/assets/170856162/e767bd9d-4629-44ac-b038-bbb166dc284b)
+
+### Internal links for members of coaching staff.
+
+
+
 
