@@ -18,7 +18,7 @@ The user will be able to see the latest headlines (at the time of the site's cre
 
 ![headline](https://github.com/paddyhockey1/Final-Project/assets/170856162/5f2d7619-6b5b-4a4d-944e-1994a6a6d8a5)
 
-### footer that includes external links to the team's social media pages.
+### Footer that includes external links to the team's social media pages.
 
 The footer will allow the user to connect with the team's various social media pages. These include links to: Instagram, Facebook and Twitter. There is also a link to the team's YouTube page where the team's video uploads can be accessed.
 
@@ -156,4 +156,22 @@ The page also contains the same statistical breakdown for the wider Western Conf
     
 ![desktop standings](https://github.com/paddyhockey1/Final-Project/assets/170856162/925ce801-3eff-48dd-9e97-9af919538e16)
 
+## Credits
+
+* I would like to thank both my facilitator and my mentor for their help in helping me create both my project and README. I would also like to thank the various classmates who have helped in a variety of ways.
+
+  ### Media
+
+* I used a large amount of images as I required images for each individual player, coach and team logo. I believe that individual images for each of these elements have helped enhance the user experience.
   
+ - The image in the hero section is taken from the [Yardbarker](https://www.yardbarker.com/nhl/articles/ducks_legends_scott_niedermayer_paul_kariya_to_aid_gm_search/s1_14825_36893318) website.
+
+ - The favicon was taken from the [Wikipedia](https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Anaheim_Ducks.svg/220px-Anaheim_Ducks.svg.png) website of the Anaheim Ducks.
+
+ - The images for the headlines were taken from the Offical Anaheim Ducks Website[Here](https://media.d3.nhle.com/image/private/t_ratio16_9-size40/f_png/prd/dmh90blvb0frlsycrgfq.png) and [Here](https://media.d3.nhle.com/image/private/t_ratio16_9-size40/f_auto/prd/xt9zsocxvucaeyqqxq17.jpg) the Las Vegas Sphere Image was taken from the Canadian Broadcasting Company [CBC](https://i.cbc.ca/1.7049915.1701813408!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/sphere-las-vegas-231117-1180.jpg)
+
+ - The roster image icons were taken from the roster tab also on the official Ducks Website [Roster Page](https://www.nhl.com/ducks/roster)
+
+ - Coach images were taken form the [Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk) pages 18-22.
+
+ - The team icons used in the standings page were taken from [Wikipedia](https://en.wikipedia.org/wiki/Western_Conference_(NHL) page and the team's own respective pages.
