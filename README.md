@@ -30,11 +30,12 @@ There is a full list of the team's roster with additional informaton such as jer
 
 The roster page has also been designed to seperate players by the three main hockey positions: forwards, defence and goaltenders. 
 
-![forwards-example](https://github.com/paddyhockey1/Final-Project/assets/170856162/ed4afc38-e731-4f54-8b12-0b78e47f402f)
+![ducks-forwards](https://github.com/paddyhockey1/Final-Project/assets/170856162/9c9777af-4dd6-4746-9ed6-d48940d2cd17)
 
-![defencemen example](https://github.com/paddyhockey1/Final-Project/assets/170856162/b8c148fa-b45d-4072-bfe6-2bc21e69fee5)
+![ducks-defencemen](https://github.com/paddyhockey1/Final-Project/assets/170856162/8712ebcd-05e9-42c9-93c9-706d2f43eea4)
 
-![goalie example](https://github.com/paddyhockey1/Final-Project/assets/170856162/70039c26-f434-42ec-b275-8d7d0be8f6d3)
+![ducks-goalies](https://github.com/paddyhockey1/Final-Project/assets/170856162/6f64f08b-a6ae-4486-8eae-483b71e02970)
+
 
 ### A staff directory with a list of coaches and training staff.
 
