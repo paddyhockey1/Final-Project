@@ -85,6 +85,16 @@ The page also contains the same statistical breakdown for the wider Western Conf
 [W3C markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpaddyhockey1.github.io%2FFinal-Project%2F) found no errors in my HTML code.
 
 ![html-checker](https://github.com/paddyhockey1/Final-Project/assets/170856162/0dbbb600-2dd1-4832-b365-f833f974bb79)
+![roster](https://github.com/user-attachments/assets/a77a43a4-5c8c-4fca-a90b-9fb01335bb1d)
+![staff](https://github.com/user-attachments/assets/1fa42b99-d78f-45a4-a9f4-2b26326ee80c)
+![cronin](https://github.com/user-attachments/assets/6aa169f0-3b54-4de0-9796-c8fa47083522)
+![thompson](https://github.com/user-attachments/assets/07270b5d-f252-4518-aec0-dc07850c5e13)
+![rook](https://github.com/user-attachments/assets/31df31d2-8ee0-4cf9-ac2a-8c0c8eb88a52)
+![maharaj](https://github.com/user-attachments/assets/ff03108d-ac50-4c8e-87a7-c3359fb86b35)
+![barron](https://github.com/user-attachments/assets/205b4092-f010-40a4-b988-815c00cbe7c5)
+![violette](https://github.com/user-attachments/assets/8f352909-28dc-4cc0-a141-e7f1187756fb)
+![standings](https://github.com/user-attachments/assets/1481cf72-cd44-4c6e-8370-e00c7822d780)
+
 
 #### CSS
 
