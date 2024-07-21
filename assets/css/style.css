@@ -251,6 +251,7 @@ text-decoration: underline;
 
   td {
     width: 9%;
+      border-bottom: 1px solid black;
 }
 
  
