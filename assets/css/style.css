@@ -165,6 +165,7 @@ td {
     width: 12%;
     text-align: center;
     margin: auto 10px;
+    border-bottom: .8px solid black
 }
 
 th {
